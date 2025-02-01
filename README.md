@@ -1,4 +1,4 @@
-# Network Scanner Tool
+# Network Device & Port Status Analyzer
 
 ## Overview
 
